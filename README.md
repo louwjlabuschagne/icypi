@@ -1,6 +1,6 @@
 # Icy Pi
 
-<img src='./assets/mascot.jpg' width='80%'>
+<img src='./assets/mascot.jpg' width='100%'>
 
 ## Welcome to GitHub Pages
 
