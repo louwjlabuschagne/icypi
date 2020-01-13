@@ -17,12 +17,12 @@ class Sensor(object):
         self.ip_address = ip_address
         self.username = username
         self.password = password
-
         
-    
+
+
+
     def get_temperature(self):
         pass
-    
+
     def get_sensor_type(self):
         return self.sensor_type
-
