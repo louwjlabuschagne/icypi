@@ -1,6 +1,6 @@
 from paramiko.client import SSHClient
 
-get_temp_cmd = 'bash /home/pi/Documents/gitProjects/src/mcp9808/get_temp_mcp9808.sh'
+get_temp_cmd = 'bash /home/pi/Documents/gitProjects/icypi/src/mcp9808/get_temp_mcp9808.sh'
 
 client = SSHClient()
 client.load_system_host_keys()
