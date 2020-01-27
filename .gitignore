@@ -5,6 +5,8 @@ __pycache__/
 
 *.ini
 
+.vscode/
+
 # C extensions
 *.so
 
